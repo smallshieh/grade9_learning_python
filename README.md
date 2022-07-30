@@ -38,6 +38,6 @@
 1. 製作簡單計算器
 1. 發牌程式
 
-以上題目及解答，個人將之寫成 ipynb 檔，放罝到 Github：https://github.com/smallshieh/grade9_learning_python
+以上題目、解答及[上課投影片](https://github.com/smallshieh/grade9_learning_python/blob/main/%E5%9C%8B%E4%B8%AD%E7%94%9F%E7%8E%A9%20Python_220623.pdf)，個人將之寫成 ipynb 檔，放罝到[我的 Github](https://github.com/smallshieh/grade9_learning_python)
 
 ipynb 檔可以方便在 Jupyter(建議使用 Jupyter Lab)執行，學生可以立刻看到執行結果，方便許多。
