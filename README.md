@@ -40,4 +40,4 @@
 
 以上題目及解答，個人將之寫成 ipynb 檔，放罝到 Github：https://github.com/smallshieh/grade9_learning_python
 
-ipynb 可以方便在 Jupyter(建議使用 Jupyter Lab)執行，學生可以立刻看到執行結果，方便許多。
+ipynb 檔可以方便在 Jupyter(建議使用 Jupyter Lab)執行，學生可以立刻看到執行結果，方便許多。
