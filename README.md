@@ -7,7 +7,7 @@
 
 本篇文參考的中文網頁來自此：[扎根高中職資訊科學教育部落(教育部計畫)](http://kh-coding.blogspot.com/p/python-46.html)。不過因為第 16 題的中文翻譯錯誤，把階層 factorial 翻成因數 factor，在此更正了。
 
-#### 範例 30 例中文翻譯及原始英文題目連結
+#### 範例 30 例
 1. 印出Hello世界
 1. 兩個數相加
 1. 算平方根
@@ -40,4 +40,5 @@
 1. 發牌程式
 
 以上題目及解答，個人將之寫成 ipynb 檔，放罝到 Github：https://github.com/smallshieh/grade9_learning_python
+
 ipynb 可以方便在 Jupyter(建議使用 Jupyter Lab)執行，學生可以立刻看到執行結果，方便許多。
